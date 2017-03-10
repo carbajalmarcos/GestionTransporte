@@ -1,0 +1,76 @@
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.Properties.Resources.resources
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csproj.GenerateResource.Cache
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.exe
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.exe
+c:\users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.pdb
+C:\Users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmLogin.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.exe.config
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.exe
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.pdb
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.exe
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.pdb
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmLogin.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.Properties.Resources.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmAdmin.resources
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmAdmin.resources
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\bin\Debug\GestionTransporte.exe.config
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.exe
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.pdb
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\bin\Debug\GestionTransporte.exe
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\bin\Debug\GestionTransporte.pdb
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.frmLogin.resources
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.frmAdmin.resources
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.Properties.Resources.resources
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.frmCamionOAcoplado.resources
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.frmCargaAcoplado.resources
+C:\Users\Marcos\Desktop\GestionTransporte1\GestionTransporte\obj\Debug\GestionTransporte.frmCargaCamion.resources
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaAcoplado.resources
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaCamion.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaAcoplado.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaCamion.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmGestorDeMarca.resources
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmGestorDeMarca.resources
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoAcoplado.resources
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoCamion.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoAcoplado.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoCamion.resources
+C:\Users\pablo\documents\visual studio 2013\Projects\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmPedido.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.exe.config
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.exe
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.pdb
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.exe
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.pdb
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaAcoplado.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaCamion.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmGestorDeMarca.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmLogin.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmAdmin.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmPedido.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoAcoplado.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoCamion.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.Properties.Resources.resources
+C:\Users\Marcos\Desktop\cosas\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmNuevoPedido.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmPedido.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\bin\Debug\GestionTransporte.exe.config
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.exe
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaAcoplado.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmCargaCamion.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmGestorDeMarca.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmLogin.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmAdmin.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmNuevoPedido.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoAcoplado.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmTipoCamion.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.Properties.Resources.resources
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GestionTransporte\GestionTransporte\GestionTransporte\obj\Debug\GestionTransporte.frmPedido.resources
